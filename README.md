@@ -36,6 +36,7 @@ Background / sources:
 
 * [Extracting the SuperFish certificate](http://blog.erratasec.com/2015/02/extracting-superfish-certificate.html)
 * [It's not just superfish that's the problem](https://gist.github.com/Wack0/17c56b77a90073be81d3)
+* [Mirror of Komodia webpage including various software pieces](https://github.com/cryptostorm/komodia)
 
 what?
 =====
