@@ -17,7 +17,9 @@ files. The password for all files is
 background / links
 ==================
 
-Test if you are affected (currently only Superfish):
+Test if you are affected:
+
+* https://superfish.tlsfun.de/ (my own, individually checks all known certs)
 * https://filippo.io/Badfish/
 * https://www.canibesuperphished.com/
 
@@ -39,6 +41,7 @@ Background / sources:
 * [Mirror of Komodia webpage including various software pieces](https://github.com/cryptostorm/komodia)
 * [Komodia/Superfish SSL validation is broken](https://blog.filippo.io/komodia-superfish-ssl-validation-is-broken/)
 * [SuperFish Removal Utility source code](https://github.com/lenovo-inc/superfishremoval)
+* [Komodia rootkit findings by @TheWack0lian](https://gist.github.com/Wack0/f865ef369eb8c23ee028)
 
 what?
 =====
